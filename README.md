@@ -2,7 +2,8 @@
 
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. Their analytics team is particularly interested in understanding what songs users are listening to. 
 
-## Data Warehousing with Amazon Redshift
+## Data Warehousing with Amazon Redshift 
+
  **Problem Statement:**
  
 Sparkify user base and song database has grown and want to move their processes and data onto the cloud. 
@@ -13,7 +14,7 @@ Staging tables, facts and dimension tables are to be defined in star schema usin
 
 ETL pipelines that transfers data from files in json format to Amazon Redshift database are to be developed using python.
 
-[Go to project](https://github.com/RangaAmirapu/DataEngineeringProjects/tree/master/DataWarehousingWithAmazonRedshift)
+[**Go to project**](https://github.com/RangaAmirapu/DataEngineeringProjects/tree/master/DataWarehousingWithAmazonRedshift)
 
 ## Data Modelling with Postgres
  **Problem Statement:**
@@ -24,7 +25,7 @@ Data modelling is to be done based on the raw data available in json format. Fac
 
 ETL pipelines that transfers data from files in json format to Postgres database are to be developed using python
 
- [Go to project](https://github.com/RangaAmirapu/DataEngineeringProjects/tree/master/DataModelingWithPostgres)
+ [**Go to project**](https://github.com/RangaAmirapu/DataEngineeringProjects/tree/master/DataModelingWithPostgres)
 
 ## Data Modelling with Apache Cassandra
 
@@ -38,4 +39,4 @@ Data modelling is to be done based on the raw data available in CSV format.
 
 ETL pipelines that transfers data from CSV files to Cassandra database are to be developed using python.
 
-[Go to project](https://github.com/RangaAmirapu/DataEngineeringProjects/tree/master/DataModellingWithCassandra)
+[**Go to project**](https://github.com/RangaAmirapu/DataEngineeringProjects/tree/master/DataModellingWithCassandra)
