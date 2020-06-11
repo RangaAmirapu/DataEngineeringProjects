@@ -1,4 +1,6 @@
-# DataEngineeringProjects
+# Data Engineering Projects
+
+Data Engineering Projects on data modelling, data warehousing, data lake development, orchestration and analysis.
 
 ## Data Warehousing with Amazon Redshift 
 
