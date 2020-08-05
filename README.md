@@ -21,7 +21,7 @@ Their data resides in S3, in a directory of JSON logs on user activity on the ap
 
 ETL pipelines that transfers data from files in json format to Amazon S3 are to be developed using python and deploy on a cluster built using Amazon EMR.
 
-[**Go to project**]([https://github.com/RangaAmirapu/DataEngineeringProjects/tree/master/DataLakesWithAmazonS3andEMR](https://github.com/RangaAmirapu/DataEngineeringProjects/tree/master/DataLakesWithAmazonS3andEMR))
+[**Go to project**](https://github.com/RangaAmirapu/DataEngineeringProjects/tree/master/DataLakesWithAmazonS3andEMR)
 
 ## Building a Data Warehousing with Amazon Redshift 
 
