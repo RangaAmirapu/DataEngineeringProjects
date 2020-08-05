@@ -1,8 +1,29 @@
 # Data Engineering Projects
 
-Data Engineering Projects on data modelling, data warehousing, data lake development, orchestration and analysis.
+Data engineering projects on data modelling, data warehousing, data lake development, orchestration and analysis.
 
-## Data Warehousing with Amazon Redshift 
+ - [Building a Data Lake using Amazon S3 and EMR](https://github.com/RangaAmirapu/DataEngineeringProjects/tree/master/DataLakesWithAmazonS3andEMR)
+ - [Building a Data Warehouse using AWS Redshift](https://github.com/RangaAmirapu/DataEngineeringProjects/tree/master/DataWarehousingWithAmazonRedshift)
+ - [Data Modelling with Postgres](https://github.com/RangaAmirapu/DataEngineeringProjects/tree/master/DataModelingWithPostgres)
+ - [Data Modelling with Cassandra](https://github.com/RangaAmirapu/DataEngineeringProjects/tree/master/DataModellingWithCassandra)
+ 
+## Building a Data Lake using Amazon S3 and EMR
+
+ **Problem Statement:**
+ 
+A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. Their user base and song database have grown large and want to move their data warehouse to a data lake.
+
+Sparkify user base and song database has grown and want to move their processes and data onto the cloud. 
+
+The goal of this project is to develop a data lake and ETL process for song play analysis.
+
+Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app. ETL pipeline has to be built that extracts data from S3, processes them using Spark, and loads the data back into S3 as a set of dimensional tables in parquet files. This will allow their analytics team to continue finding insights in what songs their users are listening to.
+
+ETL pipelines that transfers data from files in json format to Amazon S3 are to be developed using python and deploy on a cluster built using Amazon EMR.
+
+[**Go to project**]([https://github.com/RangaAmirapu/DataEngineeringProjects/tree/master/DataLakesWithAmazonS3andEMR](https://github.com/RangaAmirapu/DataEngineeringProjects/tree/master/DataLakesWithAmazonS3andEMR))
+
+## Building a Data Warehousing with Amazon Redshift 
 
  **Problem Statement:**
  
